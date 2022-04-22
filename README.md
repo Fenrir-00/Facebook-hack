@@ -3,6 +3,7 @@
 * Herramienta sencilla de hackeo
 # instalacion
 * apt update && apt upgrade -y
+* apt install python
 * apt install git -y
 * termux-setup-storage
 * git clone https://github.com/Fenrir-00/Facebook-hack
