@@ -6,6 +6,7 @@
 * apt install git -y
 * git clone https://github.com/Fenrir-00/Facebook-hack
 * cd Facebook-hack
+* chmod +x Facebook-hack.py
 * python3 facebook-hack.py
 # si tienes algun error escribeme al telegram @Ritorito1990
 
