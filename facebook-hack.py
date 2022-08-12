@@ -33,7 +33,7 @@ def banner():
 ╚═╝     ╚══════╝╚═╝  ╚══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝""")
  print(f"{color.fin}")
 
-def cabecera()
+def cabecera():
  os.system("clear")
  print(f"""{color.cyan}
 
